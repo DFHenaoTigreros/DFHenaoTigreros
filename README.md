@@ -1,16 +1,34 @@
-### Hi there 👋
+ # Hi! I am David Henao 
+ 
 
-<!--
-**DFHenaoTigreros/DFHenaoTigreros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿Who I am? 
+I am a **Full Stack Developer** and English student.
 
-Here are some ideas to get you started:
+When I was 6 years old, discovered my passion for computing, spent a lot of time,
+investigated about general culture and history, later I found the programming and 
+this is what I dedicate myself, love what I do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿What am I doing?
+I am currently working on individual projects web development, learning new technologies 
+and acquiring new knowledges on **Full Stack Development**.
+
+## ¿What do I want?
+I would like to get a job, where I can meet people with similar knowledges to mine, 
+I love to help to people and also be helped, I believe and want that my little knowledges, could
+be useful for the tech world. 
+
+## ¿Technical Skills?
+During the Soy Henry bootcamp, I learned about technologies such as:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript** 
+- **React**
+- **Redux**
+- **ExpressJs**
+- **PostgreSQL**
+- **Sequelize**
+- **NodeJs**
+- **Git**
+
+Also I have knowledges about **Office** and **DataBases**
