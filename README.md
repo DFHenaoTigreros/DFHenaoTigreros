@@ -37,6 +37,6 @@ Also I have knowledges about **Office** and **DataBases**
 ## Contact 
 Mail: davidhenao3105@gmail.com
 
-Phone Number: +57 3168547932
+Phone number: +57 3168547932
 
 
