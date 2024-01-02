@@ -17,7 +17,7 @@ I would like to get a job, where I can meet people with similar knowledges to mi
 I love to help to people and also be helped, I believe and want that my little knowledges, could
 be useful for the tech world. 
 
-## ¿Technical Skills?
+## Technical Skills
 During the Soy Henry bootcamp, I learned about technologies such as:
 
 - **HTML5**
@@ -32,3 +32,10 @@ During the Soy Henry bootcamp, I learned about technologies such as:
 - **Git**
 
 Also I have knowledges about **Office** and **DataBases**
+
+
+## Contact 
+[Mail](davidhenao3105@gmail.com)
+[Phone Number](+57 3168547932)
+
+
